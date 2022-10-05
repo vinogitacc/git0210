@@ -13,7 +13,7 @@ public class Fibonacci {
 			s=t;
 			
 		}
-		
+		System.out.println("Fibonacci series completed");
 	}
 	
 
